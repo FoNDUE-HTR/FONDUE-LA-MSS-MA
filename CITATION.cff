@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "FONDUE-LA-MSS-MA"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Leflaëc
+    given-names: Alice
+    orcid: https://orcid.org/0000-0001-7643-3468
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    orcid: https://orcid.org/0000-0001-9094-4475
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-LA-MSS-MA'
+url: 'https://github.com/FoNDUE-HTR/FONDUE-MSS-MA'
+abstract: >-
+  Transcription corpora for training HTR models for
+  medieval manuscripts in latin.
+keywords:
+  - HTR
+  - medieval
+  - manuscript
+  -latin
+version: 0.1
+date-released: 2023-03-14
+licence: cc-by-4.0

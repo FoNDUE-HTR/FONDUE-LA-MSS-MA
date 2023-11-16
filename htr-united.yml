@@ -1,0 +1,45 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: FONDUE-LA-MSS-MA
+url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
+authors:
+- name: Lefalec
+  surname: Alice
+  orcid: 0000-0001-7643-3468
+  roles:
+  - transcriber
+- name: Gabay
+  surname: Simon
+  roles:
+  - project-manager
+  - quality-control
+  orcid: 0000-0001-9094-4475
+description: ' Transcriptions of French Medieval latin manuscripts'
+project-name: FoNDUE
+project-website: https://github.com/FoNDUE-HTR/
+language:
+- lat
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '700'
+  notAfter: '1500'
+hands:
+  count: '1-per-folder'
+  precision: exact
+production-software: eScriptorium + Kraken
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+- metric: characters
+  count: 504656
+- metric: files
+  count: 931
+- metric: lines
+  count: 17817
+- metric: regions
+  count: 2830
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-LA-MSS-MA/blob/master/CITATION.cff
+transcription-guidelines: SegmOnto
