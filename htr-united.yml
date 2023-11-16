@@ -1,45 +1,140 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: FONDUE-LA-MSS-MA
-url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
 authors:
 - name: Lefalec
-  surname: Alice
   orcid: 0000-0001-7643-3468
   roles:
   - transcriber
+  surname: Alice
 - name: Gabay
-  surname: Simon
+  orcid: 0000-0001-9094-4475
   roles:
   - project-manager
   - quality-control
-  orcid: 0000-0001-9094-4475
+  surname: Simon
+characters:
+  members:
+  - e
+  - i
+  - u
+  - a
+  - s
+  - t
+  - r
+  - n
+  - o
+  - m
+  - c
+  - l
+  - d
+  - p
+  - ','
+  - q
+  - ̃
+  - b
+  - g
+  - '&'
+  - f
+  - h
+  - I
+  - x
+  - .
+  - ;
+  - A
+  - ':'
+  - S
+  - E
+  - C
+  - ̧
+  - N
+  - U
+  - P
+  - T
+  - Q
+  - ꝑ
+  - D
+  - H
+  - X
+  - O
+  - M
+  - '1'
+  - ꝓ
+  - F
+  - L
+  - R
+  - y
+  - ⟦
+  - ⟧
+  - ł
+  - V
+  - G
+  - '0'
+  - '2'
+  - B
+  - ᷑
+  - '9'
+  - /
+  - đ
+  - Α
+  - Z
+  - '8'
+  - z
+  - ꝰ
+  - '~'
+  - ⁜
+  - '3'
+  - '4'
+  - ͦ
+  - '6'
+  - '7'
+  - ƀ
+  - √
+  - ÷
+  - ξ
+  - Ꝑ
+  - ̨
+  - Π
+  - Ν
+  - Τ
+  - Κ
+  - Λ
+  - Ω
+  - Σ
+  - º
+  - ͭ
+  - Y
+  - Ł
+  - j
+  - ͬ
+  mode: NFD
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-LA-MSS-MA/blob/master/CITATION.cff
 description: ' Transcriptions of French Medieval latin manuscripts'
-project-name: FoNDUE
-project-website: https://github.com/FoNDUE-HTR/
+format: Alto-XML
+hands:
+  count: 1-per-folder
+  precision: exact
 language:
 - lat
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: FoNDUE
+project-website: https://github.com/FoNDUE-HTR/
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
 script-type: only-manuscript
 time:
-  notBefore: '700'
   notAfter: '1500'
-hands:
-  count: '1-per-folder'
-  precision: exact
-production-software: eScriptorium + Kraken
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 504656
-- metric: files
-  count: 931
-- metric: lines
-  count: 17817
-- metric: regions
-  count: 2830
-citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-LA-MSS-MA/blob/master/CITATION.cff
+  notBefore: '700'
+title: FONDUE-LA-MSS-MA
 transcription-guidelines: SegmOnto
+url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
+volume:
+- count: 34804
+  metric: characters
+- count: 40
+  metric: files
+- count: 1341
+  metric: lines
+- count: 110
+  metric: regions
