@@ -1,15 +1,15 @@
 authors:
 - name: Leflaec
-  surname: Alice
   orcid: 0000-0001-7643-3468
   roles:
   - transcriber
+  surname: Alice
 - name: Gabay
-  surname: Simon
   orcid: 0000-0001-9094-4475
   roles:
   - project-manager
   - quality-control
+  surname: Simon
 characters:
   members:
   - e
