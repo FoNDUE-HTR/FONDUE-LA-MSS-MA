@@ -1,15 +1,15 @@
 authors:
-- name: Lefalec
+- name: Leflaec
+  surname: Alice
   orcid: 0000-0001-7643-3468
   roles:
   - transcriber
-  surname: Alice
 - name: Gabay
+  surname: Simon
   orcid: 0000-0001-9094-4475
   roles:
   - project-manager
   - quality-control
-  surname: Simon
 characters:
   members:
   - e
@@ -128,7 +128,7 @@ time:
   notBefore: '700'
 title: FONDUE-LA-MSS-MA
 transcription-guidelines: SegmOnto
-url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
+url: https://github.com/FoNDUE-HTR/FONDUE-LA-MSS-MA
 volume:
 - count: 34804
   metric: characters
