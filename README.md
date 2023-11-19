@@ -13,7 +13,7 @@ This repo contains the transcription of medieval latin manuscripts.
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-MA/blob/master/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-LA-MSS-MA/blob/main/htr-united.yml) file.
 
 ## Licences
 Annotation is CC-BY. Images belong to Gallica.
